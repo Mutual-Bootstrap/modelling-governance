@@ -6,8 +6,8 @@ It contains modelling principles, conventions, standards and guidance intended t
 
 Examples:
 
-- Modelling Principles
-- Modelling Conventions
+- [Modelling Principles](https://github.com/Mutual-Bootstrap/modelling-governance/blob/main/Modelling%20Principles.md)
+- [Modelling Conventions](https://github.com/Mutual-Bootstrap/modelling-governance/blob/main/Modelling%20Conventions.md)
 - ArchiMate Guidance
 - Naming Standards
 - Repository Standards
