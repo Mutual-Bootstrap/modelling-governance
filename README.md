@@ -9,6 +9,7 @@ It contains modelling principles, conventions, standards and guidance intended t
 - [Modelling Principles](https://github.com/Mutual-Bootstrap/modelling-governance/blob/main/Modelling%20Principles.md)
 - [Modelling Conventions](https://github.com/Mutual-Bootstrap/modelling-governance/blob/main/Modelling%20Conventions.md)
 - [Information Landscape for Execs](info-landscape-for-execs.md)
+- [Options Visualisation for Execs](options-visualisation.md)
 
 # Suggested Future Articles
 
