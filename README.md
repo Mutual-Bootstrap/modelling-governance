@@ -4,10 +4,14 @@ This repository defines how architecture should be described, structured and mai
 
 It contains modelling principles, conventions, standards and guidance intended to improve consistency and quality across architectural work.
 
-Examples:
+# Directory
 
 - [Modelling Principles](https://github.com/Mutual-Bootstrap/modelling-governance/blob/main/Modelling%20Principles.md)
 - [Modelling Conventions](https://github.com/Mutual-Bootstrap/modelling-governance/blob/main/Modelling%20Conventions.md)
+- [Information Landscape for Execs](info-landscape-for-execs.md)
+
+# Suggested Future Articles
+
 - ArchiMate Guidance
 - Naming Standards
 - Repository Standards
